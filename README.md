@@ -3,17 +3,17 @@
   <img src ="https://media.giphy.com/media/fwtYgX4buYMJw0hJeA/giphy.gif" width="800" height="370" > <br>
   <br>Hi there!<br>
   <br> I'm Alessio Cassieri, full time student and hip-hop enjoyer! :computer:<br>
+
+  [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/Cassio)
   <br>
  </abc>
 </h2> 
 <h2 align="left">👨‍🍳: Let me cook with those:</h2>
 <p align="left">
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-      <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cassio7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![My Skills](https://skillicons.dev/icons?i=js,html,bootstrap,css,angular,laravel,nodejs,c,java,py,r,blender,unity)](https://skillicons.dev)
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cassio7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
 
