@@ -3,9 +3,9 @@
   <img src ="https://media.giphy.com/media/fwtYgX4buYMJw0hJeA/giphy.gif" width="800" height="370" > <br>
   <br>Hi there!<br>
   <br> I'm Alessio Cassieri, full time student and hip-hop enjoyer! :computer:<br>
-
-  [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/Cassio)
-  <br>
+ <br>
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21qfkrxjcoiicqxb6vi5ayi5y&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)  <br>
  </abc>
 </h2> 
 <h2 align="left">👨‍🍳: Let me cook with those:</h2>
