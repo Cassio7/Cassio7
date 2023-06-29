@@ -1,3 +1,4 @@
+<img src ="https://media.giphy.com/media/fwtYgX4buYMJw0hJeA/giphy.gif" width="770" height="350">
 ### Hi there 👋
 
 <!--
@@ -16,4 +17,4 @@ Here are some ideas to get you started:
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cassio7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-<img src ="https://media.giphy.com/media/fwtYgX4buYMJw0hJeA/giphy.gif" width="100">
+
