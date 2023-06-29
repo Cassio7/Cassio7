@@ -5,7 +5,7 @@
   <br> I'm Alessio Cassieri, full time student and hip-hop enjoyer! :computer:<br>
  <br>
   
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21qfkrxjcoiicqxb6vi5ayi5y&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)  <br>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21qfkrxjcoiicqxb6vi5ayi5y&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)  <br>
  </abc>
 </h2> 
 <h2 align="left">👨‍🍳: Let me cook with those:</h2>
