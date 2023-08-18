@@ -13,7 +13,7 @@
  
 [![My Skills](https://skillicons.dev/icons?i=php,js,html,bootstrap,css,angular,laravel,nodejs,c,java,py,r,blender,unity)](https://skillicons.dev)
  
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Cassio7&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Cassio7&langs_count=10&theme=tokyonight&layout=compact&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
 
