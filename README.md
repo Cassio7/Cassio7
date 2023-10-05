@@ -7,7 +7,7 @@
 
 # 👨‍🍳Let me cook with those:
  
-[![My Skills](https://skillicons.dev/icons?i=c,java,py,php,js,html,bootstrap,css,angular,laravel,nodejs,r,blender,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,py,php,js,html,bootstrap,css,angular,laravel,nodejs,mysql,r,blender,unity)](https://skillicons.dev)
  
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Cassio7&langs_count=10&theme=tokyonight&layout=compact&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
