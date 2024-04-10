@@ -3,13 +3,13 @@
 
 # I'm Alessio Cassieri, full time student and hip-hop enjoyer! :computer:
  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21qfkrxjcoiicqxb6vi5ayi5y&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)  <br>
+
 
 # 👨‍🍳Let me cook with those:
  
 [![My Skills](https://skillicons.dev/icons?i=c,java,py,php,js,html,bootstrap,css,angular,laravel,nodejs,mysql,r,blender,unity)](https://skillicons.dev)
  
-
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Cassio7&theme=tokyonight&layout=compact&hide_progress=true&hide=jupyter%20notebook&langs_count=15)](https://github.com/anuraghazra/github-readme-stats)
 
 # Sociallllllll:
  
