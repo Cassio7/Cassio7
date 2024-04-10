@@ -14,3 +14,6 @@
 # Sociallllllll:
  
  [![Instagram Badge](https://img.shields.io/badge/-@cas_sio_-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/cas_sio_)](https://www.instagram.com/cas_sio_)
+
+
+| (• ◡•)|Cassio(❍ᴥ❍ʋ)
