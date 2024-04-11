@@ -1,5 +1,5 @@
 # YO
-  <img src ="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZ4czU5ZGNvcHoxemMzbjlyeWh2Y2c3dTVxZG81dzFjaDI0c25ldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9uITwFum2zFg9fBHYU/giphy.gif" width="800" height="400" > <br>
+  <img src ="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZ4czU5ZGNvcHoxemMzbjlyeWh2Y2c3dTVxZG81dzFjaDI0c25ldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9uITwFum2zFg9fBHYU/giphy.gif" width="750" height="400" > <br>
 
 # I'm Alessio Cassieri, full time student and hip-hop enjoyer! :computer:
  
