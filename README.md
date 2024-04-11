@@ -12,7 +12,7 @@
 [![My Skills](https://skillicons.dev/icons?i=c,java,py,php,js,html,bootstrap,css,angular,laravel,nodejs,mysql,r,blender,unity,postman,bash)](https://skillicons.dev)
 
  
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Cassio7&theme=tokyonight&layout=compact&hide_progress=true&hide=jupyter%20notebook&langs_count=15)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Cassio7&theme=tokyonight&layout=compact&hide_progress=true&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align="left"> Sociallllllll:</h2>
  
