@@ -7,9 +7,9 @@ I'm Alessio Cassieri **freshly graduated** with a Bachelor's degree in Computer 
 
 Passionate about **programming, cybersecurity** and hip-hop <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="25" height="25" />. 
 <br>
-<!--
+
 <img src ="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZ4czU5ZGNvcHoxemMzbjlyeWh2Y2c3dTVxZG81dzFjaDI0c25ldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9uITwFum2zFg9fBHYU/giphy.gif" width="720" height="400" >
--->
+
 <h2 align="left">Technologies</h2>
 
 <div align="center">
@@ -20,9 +20,10 @@ Passionate about **programming, cybersecurity** and hip-hop <img src="https://ra
 
 <h2 align="left">Stats</h2>
 
+## Stats
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Cassio7&show_icons=true&theme=dracula&rank_icon=github" />
-
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cassio7&layout=compact&theme=dracula&hide=jupyter%20notebook,blade,purebasic,css&card_width=320" />
