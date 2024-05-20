@@ -20,9 +20,17 @@ Passionate about **programming, cybersecurity** and hip-hop <img src="https://ra
 
 <h2 align="left">Stats</h2>
 <div align="center">
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cassio7&layout=compact&theme=dracula&hide=jupyter%20notebook,blade,purebasic,css">
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Cassio7&show_icons=true&theme=dracula">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+ <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cassio7&layout=compact&theme=dracula&hide=jupyter%20notebook,blade,purebasic,css&card_width=320" />
+
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Cassio7&show_icons=true&theme=dracula&rank_icon=github" />
+</a>
+
 </div>
+
+
 
 <!--
 <h2 align="left"> Sociallllllll:</h2>
