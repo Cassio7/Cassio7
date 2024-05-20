@@ -19,7 +19,7 @@ Passionate about **programming, cybersecurity** and hip-hop <img src="https://ra
 </div>
 
 <h2 align="left">Stats</h2>
-<div align="center">
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Cassio7&show_icons=true&theme=dracula&rank_icon=github" />
 
@@ -28,7 +28,7 @@ Passionate about **programming, cybersecurity** and hip-hop <img src="https://ra
   <img height=200 align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cassio7&layout=compact&theme=dracula&hide=jupyter%20notebook,blade,purebasic,css&card_width=320"/>
 </a>
 
-</div>
+
 
 
 
