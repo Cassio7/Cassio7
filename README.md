@@ -1,23 +1,32 @@
 <h2 align="left">
- <abc>
-  <br>YO <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Alessio Cassieri, full time student and hip-hop enjoyer! :computer:<br>
-  <br>
-   <img src ="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZ4czU5ZGNvcHoxemMzbjlyeWh2Y2c3dTVxZG81dzFjaDI0c25ldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9uITwFum2zFg9fBHYU/giphy.gif" width="750" height="400" >
- </abc>
+ YO <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
+
 </h2>
 
-<h2 align="left">👨‍🍳Let me cook with:</h2>
+I'm Alessio Cassieri **freshly graduated** with a Bachelor's degree in Computer Science and Technologies from the University of Perugia.
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,py,php,js,html,bootstrap,css,angular,laravel,nodejs,mysql,r,blender,unity,postman,bash)](https://skillicons.dev)
+Passionate about **programming, cybersecurity** and hip-hop <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="25" height="25" />. 
+<br>
 
- 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Cassio7&theme=tokyonight&layout=compact&hide_progress=true&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+<img src ="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZ4czU5ZGNvcHoxemMzbjlyeWh2Y2c3dTVxZG81dzFjaDI0c25ldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9uITwFum2zFg9fBHYU/giphy.gif" width="720" height="400" >
 
+<h2 align="left">Technologies</h2>
+
+<div align="center">
+
+  [![My Skills](https://skillicons.dev/icons?i=c,java,py,php,js,html,bootstrap,css,angular,laravel,nodejs,mysql,blender,unity,bash)](https://skillicons.dev)
+
+</div>
+
+<h2 align="left">Stats</h2>
+<div align="center">
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cassio7&layout=compact&theme=dracula&hide=jupyter%20notebook,blade,purebasic,css">
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Cassio7&show_icons=true&theme=dracula">
+</div>
+
+<!--
 <h2 align="left"> Sociallllllll:</h2>
  
 [![Instagram Badge](https://img.shields.io/badge/-@cas_sio_-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/cas_sio_)](https://www.instagram.com/cas_sio_)
 [![Linkedin Badge](https://img.shields.io/badge/-alessiocassieri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alessio-cassieri-7424042b5)](https://www.linkedin.com/in/alessio-cassieri-7424042b5/)
-
-
-| (• ◡•)|Cassio(❍ᴥ❍ʋ)
+-->
