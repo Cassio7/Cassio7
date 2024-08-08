@@ -14,7 +14,7 @@ Passionate about **programming, cybersecurity** and hip-hop <img src="https://ra
 
 <div align="center">
 
-  [![My Skills](https://skillicons.dev/icons?i=c,java,py,php,js,html,bootstrap,css,angular,laravel,nodejs,mysql,blender,unity,bash)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=c,java,spring,py,php,js,html,bootstrap,css,angular,laravel,nodejs,mysql,blender,unity,bash)](https://skillicons.dev)
 
 </div>
 
