@@ -11,7 +11,7 @@ I'm Alessio Cassieri **freshly graduated** with a Bachelor's degree in Computer 
 
 ## Technologies 💻
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,spring,py,php,js,ts,html,angular,laravel,nodejs,mysql,express,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,spring,py,php,js,ts,html,angular,laravel,nodejs,express,mysql,bash)](https://skillicons.dev)
 
 
 <!--
