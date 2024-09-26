@@ -1,22 +1,18 @@
-<h2 align="left">
- YO <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
-
-</h2>
+# YO <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 
 I'm Alessio Cassieri **freshly graduated** with a Bachelor's degree in Computer Science and Technologies from the University of Perugia.
 
-Passionate about **programming, cybersecurity** and hip-hop <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="25" height="25" />. 
-<br>
+## About me 
 
-<img src ="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZ4czU5ZGNvcHoxemMzbjlyeWh2Y2c3dTVxZG81dzFjaDI0c25ldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9uITwFum2zFg9fBHYU/giphy.gif" width="720" height="400" >
+- Passionate about **programming, cybersecurity** and hip-hop <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="25" height="25" />. 
+- Currently working as Full Stack Developer🔥.
+- I love open-souce software🐧.
 
-<h2 align="left">Technologies</h2>
 
-<div align="center">
+## Technologies 💻
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,spring,py,php,js,html,bootstrap,css,angular,laravel,nodejs,mysql,blender,unity,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,spring,py,php,js,ts,html,angular,laravel,nodejs,mysql,express,bash)](https://skillicons.dev)
 
-</div>
 
 <!--
 
@@ -32,9 +28,18 @@ Passionate about **programming, cybersecurity** and hip-hop <img src="https://ra
 
 -->
 
-<!--
-<h2 align="left"> Sociallllllll:</h2>
- 
+
+## Sociallllllll 🔗
+
+[![Website Badge](https://img.shields.io/badge/-Portfolio-0A66C2?style=flat-square&link=https://alessiocassieri.netlify.app/)](https://alessiocassieri.netlify.app/)
 [![Instagram Badge](https://img.shields.io/badge/-@cas_sio_-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/cas_sio_)](https://www.instagram.com/cas_sio_)
 [![Linkedin Badge](https://img.shields.io/badge/-alessiocassieri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alessio-cassieri-7424042b5)](https://www.linkedin.com/in/alessio-cassieri-7424042b5/)
--->
+
+
+
+
+<div align="center">
+ 
+<img src ="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZ4czU5ZGNvcHoxemMzbjlyeWh2Y2c3dTVxZG81dzFjaDI0c25ldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9uITwFum2zFg9fBHYU/giphy.gif" width="720" height="400" >
+
+</div>
