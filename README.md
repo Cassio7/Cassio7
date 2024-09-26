@@ -14,9 +14,11 @@ Passionate about **programming, cybersecurity** and hip-hop <img src="https://ra
 
 <div align="center">
 
-  [![My Skills](https://skillicons.dev/icons?i=c,java,spring,py,php,js,html,bootstrap,css,angular,laravel,nodejs,mysql,blender,unity,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,spring,py,php,js,html,bootstrap,css,angular,laravel,nodejs,mysql,blender,unity,bash)](https://skillicons.dev)
 
 </div>
+
+<!--
 
 <h2 align="left">Stats</h2>
 
@@ -25,8 +27,10 @@ Passionate about **programming, cybersecurity** and hip-hop <img src="https://ra
 </a>
 <br><br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
- <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Cassio7&show_icons=true&theme=dracula&rank_icon=github" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Cassio7&show_icons=true&theme=dracula&rank_icon=github" />
 </a>
+
+-->
 
 <!--
 <h2 align="left"> Sociallllllll:</h2>
