@@ -6,7 +6,7 @@ I'm Alessio Cassieri **freshly graduated** with a Bachelor's degree in Computer 
 
 - Passionate about **programming, cybersecurity** and hip-hop <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="25" height="25" />. 
 - Currently working as Software Developer💻.
-- I love open-souce software🐧.
+- I love open-source software🐧.
 
 
 ## Technologies 💻
