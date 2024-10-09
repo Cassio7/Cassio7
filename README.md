@@ -4,10 +4,14 @@ I'm Alessio Cassieri **freshly graduated** with a Bachelor's degree in Computer 
 
 ## About me 
 
-- Passionate about **programming, cybersecurity** and hip-hop <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="25" height="25" />. 
-- Currently working as Software Developer💻.
+- Passionate about **programming, cybersecurity** 🛡️.
 - I love open-source software🐧.
+- Hip-hop enjoyer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="25" height="25" />. 
 
+## Currently 🎯
+Working as **Software Developer** using the following tools and frameworks:
+
+[![My Skills](https://skillicons.dev/icons?i=docker,nestjs,postgres,angular,git)](https://skillicons.dev)
 
 ## Technologies 💻
 
