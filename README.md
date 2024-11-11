@@ -9,7 +9,7 @@ I'm Alessio Cassieri **freshly graduated** with a Bachelor's degree in Computer 
 - Hip-hop enjoyer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="25" height="25" />. 
 
 ## Currently 🎯
-Working as **Software Developer** using the following tools and frameworks:
+Working as **Full stack Developer** using the following tools and frameworks:
 
 [![My Skills](https://skillicons.dev/icons?i=nestjs,postgres,angular,docker,git)](https://skillicons.dev)
 
