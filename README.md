@@ -15,7 +15,7 @@ Working as **Full stack Developer** using the following tools and frameworks:
 
 ## Technologies 💻
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,spring,py,php,js,ts,html,angular,laravel,nodejs,express,mysql,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,py,php,js,ts,html,angular,laravel,nodejs,express,mysql,bash)](https://skillicons.dev)
 
 
 <!--
