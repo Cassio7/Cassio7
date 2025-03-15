@@ -1,6 +1,6 @@
 # YO <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 
-I'm Alessio Cassieri **freshly graduated** with a Bachelor's degree in Computer Science and Technologies from the University of Perugia.
+I'm Alessio Cassieri, **Full Stack Developer** with a Bachelor's degree in Computer Science and Technologies from the University of Perugia.
 
 ## About me 
 
@@ -9,7 +9,7 @@ I'm Alessio Cassieri **freshly graduated** with a Bachelor's degree in Computer 
 - Hip-hop enjoyer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="25" height="25" />. 
 
 ## Currently 🎯
-Working as **Full stack Developer** using the following tools and frameworks:
+Working as software developer using the following tools and frameworks:
 
 [![My Skills](https://skillicons.dev/icons?i=nestjs,postgres,redis,angular,vite,docker,git)](https://skillicons.dev)
 
