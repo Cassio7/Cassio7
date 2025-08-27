@@ -11,7 +11,7 @@ I'm Alessio Cassieri, **Full Stack Developer** with a Bachelor's degree in Compu
 ## Currently 🎯
 Working as software developer using the following tools and frameworks:
 
-[![My Skills](https://skillicons.dev/icons?i=nestjs,postgres,redis,angular,vite,docker,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nestjs,postgres,redis,angular,astro,supabase,docker,git)](https://skillicons.dev)
 
 ## Technologies 💻
 
