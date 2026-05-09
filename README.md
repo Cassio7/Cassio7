@@ -6,7 +6,6 @@ I'm Alessio Cassieri, **Full Stack Developer** with a Bachelor's degree in Compu
 
 - Passionate about **programming, cybersecurity** 🛡️.
 - I love open-source software🐧.
-- Hip-hop enjoyer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="25" height="25" />. 
 
 ## Currently 🎯
 Working as software developer using the following tools and frameworks:
