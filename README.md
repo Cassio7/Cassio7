@@ -1,48 +1,46 @@
-# YO <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
+<div align="center">
 
-I'm Alessio Cassieri, **Full Stack Developer** with a Bachelor's degree in Computer Science and Technologies from the University of Perugia.
+# Hi, I'm Alessio 👋
 
-## About me 
+**Full Stack Developer** · B.Sc. Computer Science, University of Perugia
 
-- Passionate about **programming, cybersecurity** 🛡️.
-- I love open-source software🐧.
+</div>
 
-## Currently 🎯
-Working as software developer using the following tools and frameworks:
+## About
 
-[![My Skills](https://skillicons.dev/icons?i=nestjs,postgres,redis,angular,astro,supabase,docker,git)](https://skillicons.dev)
+Full stack developer focused on backend architecture and building things end-to-end — from API design to deployment. Interested in cybersecurity and open source.
 
-## Technologies 💻
+## Currently working with
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,py,php,js,ts,html,angular,laravel,nodejs,express,mysql,bash)](https://skillicons.dev)
+<div align="left">
 
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<!--
+</div>
 
-<h2 align="left">Stats</h2>
+<details>
+<summary>Also worked with</summary>
+<br>
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cassio7&layout=compact&card_width=320&theme=dracula&hide=jupyter%20notebook,blade,purebasic,css" />
-</a>
-<br><br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Cassio7&show_icons=true&theme=dracula&rank_icon=github" />
-</a>
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
--->
+</details>
 
+## Links
 
-## Sociallllllll 🔗
-
-[![Website Badge](https://img.shields.io/badge/-Portfolio-0A66C2?style=flat-square&link=https://alessiocassieri.netlify.app/)](https://alessiocassieri.netlify.app/)
-[![Instagram Badge](https://img.shields.io/badge/-@cas_sio_-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/cas_sio_)](https://www.instagram.com/cas_sio_)
-[![Linkedin Badge](https://img.shields.io/badge/-alessiocassieri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alessio-cassieri-7424042b5)](https://www.linkedin.com/in/alessio-cassieri-7424042b5/)
-
-
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=flat-square&logo=firefox&logoColor=white)](https://alessiocassieri.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessio-cassieri-7424042b5/)
 
 <div align="center">
- 
-<img src ="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZ4czU5ZGNvcHoxemMzbjlyeWh2Y2c3dTVxZG81dzFjaDI0c25ldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9uITwFum2zFg9fBHYU/giphy.gif" width="720" height="400" >
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZ4czU5ZGNvcHoxemMzbjlyeWh2Y2c3dTVxZG81dzFjaDI0c25ldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9uITwFum2zFg9fBHYU/giphy.gif" width="720" height="400">
 
 </div>
